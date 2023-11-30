@@ -11,7 +11,7 @@ import clearNightBackground from './assets/clearnight.png';
 import cloudyDayBackground from './assets/cloudyday.png';
 import cloudyNightBackground from './assets/cloudynight.jpg';
 
-const API_KEY = '95d09d97f017316cee832c038fb989fd';
+const API_KEY = 'YOUR_API_KEY';
 
 export default function App() {
   const [currentLocationData, setCurrentLocationData] = useState(null);
@@ -143,7 +143,7 @@ export default function App() {
       <ImageBackground source={getBackgroundImage()} style={styles.backgroundImage}>
         <View style={styles.container}>
           <Text style={styles.heading}>Weather Tracker</Text>
-          <Text style={styles.subHeading}>Simple Weather Application!</Text>
+          <Text style={styles.subHeading}>The Modern Weather Solution!</Text>
 
           {currentLocationData && (
             <View>
