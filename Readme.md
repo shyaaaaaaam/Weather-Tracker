@@ -41,3 +41,6 @@ Current Features:<br />
 Todo: <br />
 - Add A Toggle To Convert Temperature From Celsius To Farenheit<br />
 - - - - -
+Output: <br />
+<img width="192" alt="image" src="https://github.com/shyaaaaaaam/Weather-Tracker/assets/66993859/b6c50c8a-75cc-4613-9024-9b6f6a42c984">
+
